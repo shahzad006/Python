@@ -81,9 +81,4 @@ python first_program.py
 
 ------------------------------------------------------------------------
 
-## 🎯 Conclusion
 
-You've set up Python ✅, installed VS Code 📝, and run your first
-program 🚀.\
-Next → learn about **variables, data types & operations** 🔢.\
-Happy Coding! 💡👨‍💻👩‍💻

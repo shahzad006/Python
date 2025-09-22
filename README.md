@@ -12,3 +12,4 @@
 9. [Built-in Functions ](https://github.com/shahzad006/Python/tree/main/Modules/module_02/09_Functions_%26_Built-in_Functions)
 10. [User-Defined Functions](https://github.com/shahzad006/Python/tree/main/Modules/module_02/10_User-Defined_Functions)
 11. [Global Vs Local Variable](https://github.com/shahzad006/Python/tree/main/Modules/module_02/11_Global_Vs_Local_Variable)
+12. [Decorators](https://github.com/shahzad006/Python/tree/main/Modules/module_02/12_Decorators)

@@ -14,3 +14,4 @@
 11. [Global Vs Local Variable](https://github.com/shahzad006/Python/tree/main/Modules/module_02/11_Global_Vs_Local_Variable)
 12. [Decorators](https://github.com/shahzad006/Python/tree/main/Modules/module_02/12_Decorators)
 13. [File Handling](https://github.com/shahzad006/Python/tree/main/Modules/module_02/13_File_Handling)
+14. [Exception Handling](https://github.com/shahzad006/Python/tree/main/Modules/module_02/14_Exception_Handling)
